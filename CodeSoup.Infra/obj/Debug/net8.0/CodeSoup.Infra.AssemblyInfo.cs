@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeSoup.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fc166d26c88a862dbadc0aaf5ee487f83f1801")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeSoup.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeSoup.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

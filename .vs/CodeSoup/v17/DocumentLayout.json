@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.infra\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|solutionrelative:codesoup.infra\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\services\\_base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\services\\_base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\interfaces\\service\\_base\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\interfaces\\service\\_base\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\interfaces\\repository\\_base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\interfaces\\repository\\_base\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Infra\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "CodeSoup.Infra\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:17:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:13:54.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:13:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:11:50.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\bin\Debug\net8.0\CodeSoup.Application.deps.json
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\bin\Debug\net8.0\CodeSoup.Application.dll
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\bin\Debug\net8.0\CodeSoup.Application.pdb
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.csproj.AssemblyReference.cache
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.AssemblyInfoInputs.cache
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.AssemblyInfo.cs
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.csproj.CoreCompileInputs.cache
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.sourcelink.json
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.dll
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\refint\CodeSoup.Application.dll
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\CodeSoup.Application.pdb
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Application\obj\Debug\net8.0\ref\CodeSoup.Application.dll
