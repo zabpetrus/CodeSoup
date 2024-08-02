@@ -1,4 +1,5 @@
 ﻿using CodeSoup.Domain.Entites._Base;
+using CodeSoup.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,6 @@ namespace CodeSoup.Domain.Entites
     public abstract class Funcionario : Entity
     {
         public string Nome { get; set; }
-        public string TipoFuncionario { get; set; } // Coluna discriminadora
+        public TipoFuncionario TipoFuncionario { get; set; } // Coluna discriminadora
     }
 }

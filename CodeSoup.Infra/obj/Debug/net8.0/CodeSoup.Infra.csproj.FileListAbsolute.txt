@@ -14,3 +14,5 @@ C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\obj\Debug\net8.0\CodeSoup.In
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\obj\Debug\net8.0\refint\CodeSoup.Infra.dll
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\obj\Debug\net8.0\CodeSoup.Infra.pdb
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\obj\Debug\net8.0\ref\CodeSoup.Infra.dll
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\bin\Debug\net8.0\CodeSoup.Infra.runtimeconfig.json
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Infra\obj\Debug\net8.0\CodeSoup.Infra.genruntimeconfig.cache

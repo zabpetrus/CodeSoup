@@ -48,8 +48,21 @@ classe Equipamento - Superclasse
 classe Computador - Filha de Equipamento, ou subclasse
 classe Impressora - Filha de Equipamento, ou subclasse
 
-Os exemplos serão feitos no banco de dados portátil sqllite
-O banco de dados se encontra dentro da pasta Database na camada de CondeSoup.Sources ( Não está anexada ao projeto. Se abrir a pasta do projeto vai ver lá. Só abrir o gerenciador do Sqllite e procurar ) ;
+Os exemplos serão feitos no banco de dados MySQL
+Os comandos para a criação do banco de dados e das tabelas são, respectivamente:
+>> Abrir o Console do Gerenciador de Pacotes em Ferramentas > Gerenciador de Pacotes do Nuget > Console do Gerenciador de Pacotes
+
+Escrever no terminal que irá aparecer: 
+
+PM> Add-Migration InitialMigration
+PM> Update-Database
+
+Se quiser excluir o banco de dados:
+PM> Drop-Database
+
+Se quiser excluir a migração:
+PM> Remove-Migration
+
 
 
 

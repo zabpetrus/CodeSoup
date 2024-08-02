@@ -11,3 +11,5 @@ C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\obj\Debug\net8.0\CodeSoup.D
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\obj\Debug\net8.0\refint\CodeSoup.Domain.dll
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\obj\Debug\net8.0\CodeSoup.Domain.pdb
 C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\obj\Debug\net8.0\ref\CodeSoup.Domain.dll
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\bin\Debug\net8.0\CodeSoup.Domain.runtimeconfig.json
+C:\Users\zsant\source\repos\CodeSoup\CodeSoup.Domain\obj\Debug\net8.0\CodeSoup.Domain.genruntimeconfig.cache

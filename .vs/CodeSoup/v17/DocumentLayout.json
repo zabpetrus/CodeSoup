@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.infra\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|solutionrelative:codesoup.infra\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|solutionrelative:codesoup.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\entites\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\entites\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\enums\\tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\enums\\tipofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\entites\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\entites\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\entites\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|solutionrelative:codesoup.domain\\entites\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1D5EC8-B88F-408D-B35B-F52012B65097}|CodeSoup.Api\\CodeSoup.Api.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1D5EC8-B88F-408D-B35B-F52012B65097}|CodeSoup.Api\\CodeSoup.Api.csproj|solutionrelative:codesoup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.infra\\repository\\_base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D128C169-4570-4EA7-91D9-79655FB0EC82}|CodeSoup.Infra\\CodeSoup.Infra.csproj|solutionrelative:codesoup.infra\\repository\\_base\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41ADA1BA-0C00-4D9E-B8D3-D1B57ADD97D3}|CodeSoup.Domain\\CodeSoup.Domain.csproj|c:\\users\\zsant\\source\\repos\\codesoup\\codesoup.domain\\services\\_base\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,11 +147,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240802173724_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs",
+              "RelativeToolTip": "CodeSoup.Infra\\Migrations\\20240802173724_InitialMigration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:37:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Infra\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeSoup.Infra\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA3wCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:34:40.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Enums\\TipoFuncionario.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Enums\\TipoFuncionario.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Enums\\TipoFuncionario.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Enums\\TipoFuncionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:31:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Funcionario.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Entites\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Funcionario.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Entites\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:53:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Veiculo.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Entites\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Veiculo.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Entites\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:52:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Carro.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Domain\\Entites\\Carro.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Entites\\Carro.cs",
+              "RelativeToolTip": "CodeSoup.Domain\\Entites\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:16:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Api\\Program.cs",
+              "RelativeToolTip": "CodeSoup.Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:32:04.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "CodeSoup.Infra\\Repository\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\RepositoryBase.cs",
-              "RelativeToolTip": "CodeSoup.Infra\\Repository\\RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\_Base\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "CodeSoup.Infra\\Repository\\_Base\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Infra\\Repository\\_Base\\RepositoryBase.cs",
+              "RelativeToolTip": "CodeSoup.Infra\\Repository\\_Base\\RepositoryBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T17:17:39.87Z",
@@ -131,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ServiceBase.cs",
               "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
               "RelativeDocumentMoniker": "CodeSoup.Domain\\Services\\_Base\\ServiceBase.cs",
@@ -144,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IServiceBase.cs",
               "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
               "RelativeDocumentMoniker": "CodeSoup.Domain\\Interfaces\\Service\\_Base\\IServiceBase.cs",
@@ -157,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\CodeSoup\\CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "CodeSoup.Domain\\Interfaces\\Repository\\_Base\\IRepositoryBase.cs",

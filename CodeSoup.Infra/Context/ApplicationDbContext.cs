@@ -1,4 +1,5 @@
 ﻿using CodeSoup.Domain.Entites;
+using CodeSoup.Domain.Enums;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -38,9 +39,9 @@ namespace CodeSoup.Infra.Context
             // Configuração TPH
             modelBuilder.Entity<Funcionario>()
                 .ToTable("Funcionarios")
-                .HasDiscriminator<string>("TipoFuncionario")
-                .HasValue<Empregado>("Empregado")
-                .HasValue<Freelancer>("Freelancer");
+                .HasDiscriminator<TipoFuncionario>("TipoFuncionario")
+                .HasValue<Empregado>(TipoFuncionario.Empregado)
+                .HasValue<Freelancer>(TipoFuncionario.Freelancer);
 
             // Configuração TPC
             modelBuilder.Entity<Computador>().ToTable("Computadores");

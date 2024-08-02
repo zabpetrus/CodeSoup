@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeSoup.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80fc166d26c88a862dbadc0aaf5ee487f83f1801")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c657062d9c8d9068762a3adcf0f6001b38c529")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeSoup.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeSoup.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
